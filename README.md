@@ -15,3 +15,5 @@ Note: I'm still working on:
 ✨ Free hits on lower wall as game over
 ✨ Adding sounds for a more immersive experience
 ✨ Converting the game into multiple levels
+
+This project was created as a personal exercise in web development and is intended to serve as a portfolio piece.
